@@ -15,7 +15,7 @@
 
 <body>
 
-<div id="login" align="center">
+<div id="login">
     <form id="form-login" action method="post">
         <fieldset class="inputs glow-container">
             <div class="inner">
